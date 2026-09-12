@@ -1,0 +1,7 @@
+name = "whitelist-worker"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+[[kv_namespaces]]
+binding = "WHITELIST_KV"
+id = "paste-your-kv-id-here"
